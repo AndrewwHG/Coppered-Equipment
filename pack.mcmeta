@@ -1,0 +1,9 @@
+{
+  "pack": {
+    "pack_format": 70,
+    "supported_formats": [30,999],
+      "min_format": 30,
+      "max_format": 999,
+      "description": "§l§6COPPERED §3EQUIPMENT§r§7§o         §r§§§3§l By AndrewHG"
+  }
+}
